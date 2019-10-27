@@ -1,0 +1,35 @@
+body {
+  background: linear-gradient(to right bottom,rgb(82, 133, 209, 0.5)49%,rgb(190, 201, 218, 0.5)50%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 15px;
+  background-color: none;
+  padding: 0px;
+  margin-top: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+}
+
+.grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0;
+
+
+}
+
+.font {
+  font-family: Mansalva, fantasy;
+  font-size: 48px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-family: monospace;
+}

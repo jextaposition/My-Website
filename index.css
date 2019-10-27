@@ -1,0 +1,23 @@
+body{
+	margin: 10px;
+}
+
+div {
+  font-family: "Fredericka the Great", fantasy;
+  font-size: 40px;
+  height: 465px;
+	background: inherit;
+	text-align: center;
+	background-color: white;
+  padding: 200px 50px 0px 50px;
+
+}
+
+.active {
+	text-decoration: none;
+	color: black;
+}
+h2 {
+  font-family: monospace;
+  font-size: 20px;
+}
